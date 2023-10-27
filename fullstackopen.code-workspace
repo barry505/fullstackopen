@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu/home/barry/fullstackopen"
+		},
+		{
+			"uri": "vscode-remote://wsl+ubuntu/home/barry/scratch"
+		}
+	],
+  "remoteAuthority": "wsl+ubuntu",
+  "settings": {}
+}
